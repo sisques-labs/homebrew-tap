@@ -1,6 +1,6 @@
 cask "portero" do
-  version "0.2.0"
-  sha256 "68eba7f13dd0fba57ffd93aecba9860770b44eda224093594e1aae751b3006c5"
+  version "0.2.1"
+  sha256 "1aecfd73ef1db64db32b53bc6f61b1a97702060072f8013d5267d02c55aa64ff"
 
   url "https://github.com/sisques-labs/portero/releases/download/v#{version}/Portero-v#{version}.app.zip"
   name "Portero"
